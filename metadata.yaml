@@ -1,0 +1,32 @@
+_repo: Darius-the-GreatMakers-of-History_27802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2009-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darius I, King of Persia, 548-485 B.C.'
+- !lcc 'DS'
+title: 'Darius the Great
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/27802
